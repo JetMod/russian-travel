@@ -19,8 +19,6 @@
 @media screen and (max-width: 767px) {
   .title__paragraph {
     margin: 0 auto 40px;
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 20px;
   }

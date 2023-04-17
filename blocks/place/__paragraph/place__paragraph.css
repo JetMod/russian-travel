@@ -1,5 +1,5 @@
 .place__paragraph {
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -21,9 +21,5 @@
 @media screen and (max-width: 767px) {
   .place__paragraph {
     padding: 0 16px;
-  }
-
-  .place__paragraph:last-of-type {
-    margin-bottom: 0;
   }
 }
